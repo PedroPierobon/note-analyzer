@@ -24,8 +24,6 @@ This project serves as a foundational exercise in data manipulation and processi
 1.  Ensure the input file `notas_alunos.csv` is present in the root directory of the project.
 2.  Execute the main script from your terminal:
     ```bash
-    python processador_notas.py
+    python Note.py
     ```
 3.  After the script finishes, a new file named `notas_finais.json` will be created in the same directory, containing the processed data.
-
-## 📂 Project Structure
