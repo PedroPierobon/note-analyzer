@@ -19,46 +19,6 @@ This project serves as a foundational exercise in data manipulation and processi
 -   **Pandas:** For data manipulation and analysis.
 -   **NumPy:** For efficient numerical operations (used by Pandas).
 
-## 🚀 Getting Started
-
-Follow these instructions to get a copy of the project up and running on your local machine.
-
-### Prerequisites
-
-Make sure you have Python 3 installed on your system.
-
-### Installation
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/python-analisador-notas.git](https://github.com/YOUR_USERNAME/python-analisador-notas.git)
-    ```
-    *(Replace YOUR_USERNAME with your actual GitHub username)*
-
-2.  **Navigate to the project directory:**
-    ```bash
-    cd python-analisador-notas
-    ```
-
-3.  **Create and activate a virtual environment (recommended):**
-    * On macOS/Linux:
-        ```bash
-        python3 -m venv venv
-        source venv/bin/activate
-        ```
-    * On Windows:
-        ```bash
-        python -m venv venv
-        .\venv\Scripts\activate
-        ```
-
-4.  **Install the required dependencies:**
-    This project uses a `requirements.txt` file to manage its dependencies.
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *(**Note:** To generate the `requirements.txt` file yourself, you can run `pip freeze > requirements.txt` after installing pandas).*
-
 ## ▶️ How to Run
 
 1.  Ensure the input file `notas_alunos.csv` is present in the root directory of the project.
